@@ -2,9 +2,10 @@
 - 🌱 I’m currently learning ...
 
 ### Languagues and Tools
-<img align="left" alt="Java" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
+align="left" alt="Java" width="30px" style"padding-right:10px;"
 
 <!--<img align=
  
