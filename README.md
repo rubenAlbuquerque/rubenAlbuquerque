@@ -1,16 +1,14 @@
 ### Hi I'm Rúben 👋
+
+**` Software Developer (Data Scientist / Web Developer) `**
+
 I'm Rúben Albuquerque a Software Developer student with background in data science (🎓 Bsc in Bioinformatics). <br /> 
 I am currently focusing my studies on the Front-end and user experience. <img alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<!-- - 
-<img align="left" alt="React" width="20px" style="padding: 0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-💻
- -->
-<div align="center">
-  <a href="https://github.com/rubenAlbuquerque"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenAlbuquerque&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenAlbuquerque&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
-</div>
+
+
+
+
 
 <!-- ### Connect with me: -->
 📫 How to reach me:
@@ -49,11 +47,18 @@ I am currently focusing my studies on the Front-end and user experience. <img al
   <img align="left" alt="PyTorch" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img align="left" alt="Pandas" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="left" alt="NumPy" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  
 <!--   <img align="left" alt="Seaborn" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" /> -->
 
+  <img align="left" alt="Flask" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
-<!-- <br />  <br /> -->
+<br /> <br /><br /> 
 
+<div >
+  <a href="https://github.com/rubenAlbuquerque"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenAlbuquerque&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenAlbuquerque&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
+</div>
 
 <!--
 
@@ -69,7 +74,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # Meu Perfil do GitHub
 
@@ -100,7 +105,7 @@ Olá! Eu sou um desenvolvedor entusiasmado com uma paixão por código limpo e s
 
 - Email: seuemail@example.com
 - LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome)
-
+-->
 
 
 
