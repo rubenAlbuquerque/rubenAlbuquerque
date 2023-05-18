@@ -18,27 +18,28 @@
 <!-- Others: Git, Docker, bash, figma, Pytest  -->
 <!-- django-plain.svg -->
 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Bash" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="left" alt="Docker" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="HTML5" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="React" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="Bash" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="Docker" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="left" alt="Git" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="HTML5" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React" width="50px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="Django" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg " />
+<!--   <img align="left" alt="Django" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg " /> -->
   <img align="left" alt="Flask" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="left" alt="TensorFlow" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="left" alt="PyTorch" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img align="left" alt="Pandas" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="left" alt="NumPy" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="left" alt="Seaborn" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" />
+<!--   <img align="left" alt="Seaborn" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" /> -->
 
-</div>
-  
- 
-<div style="display: inline_block"><br>
+
+<!--   
+<br />
+## Contact -->
+<div>
+<!--   <br> -->
   <a href = "mailto:">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
