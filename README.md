@@ -18,8 +18,8 @@ I am currently focusing my studies on the Front-end and user experience. <img al
 <h3 align="center">
  Languagues and Tools 🛠️
 </h3>
-  
-  #### Web development
+
+ #### Web development
 <!-- web development: html, css, javascript, react,Tailwind , boostrap django, sqlLite , Flutter-->
 <!-- Data analysis/science: python, tensorflow, PyTorch, pandas, matplotlib,  -->
 <!-- PySpark, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn  -->
