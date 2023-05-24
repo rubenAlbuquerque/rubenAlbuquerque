@@ -76,7 +76,7 @@ I am currently focusing my studies on the Front-end and user experience. <img al
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
   </a>
 </p>
-
+<!--
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -185,7 +185,7 @@ I am currently focusing my studies on the Front-end and user experience. <img al
 
 
 
-<!--
+
 
 **rubenAlbuquerque/rubenAlbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
