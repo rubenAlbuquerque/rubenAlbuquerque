@@ -35,7 +35,7 @@ I am currently focusing my studies on the Front-end and user experience. <img al
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 -->
 <a href="https://rubenalbuquerque.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" style="border-radius: 50%; width: 150px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
