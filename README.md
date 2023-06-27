@@ -15,6 +15,32 @@ I'm a Software Developer student with background in data science (🎓 Bsc in Bi
 I am currently focusing my studies on the Front-end and user experience. <img alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
+[DEMO](https://rubenalbuquerque.github.io/Portfolio/)
+
+<!-- ### Connect with me: -->
+<h3 align="center"> How to reach me 🗓 </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rubenAlbuquerque/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 50%; width: 120px; ">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--
+ <a href="https://www.linkedin.com/in/rubenAlbuquerque/" target="_blank" style="background-color: white; display: inline-block; padding: 5px; border-radius: 50%;">
+  <img src="https://rubenalbuquerque.github.io/Portfolio/static/media/logoBG.fce4a5138bbe4c21a822.png" style="width: 20px; height: 20px; vertical-align: middle;" alt="LinkedIn">
+  <span style="color: black; vertical-align: middle;">My Website</span>
+</a>
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+-->
+<a href="https://rubenalbuquerque.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" style="border-radius: 50%; width: 150px;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
 <h3 align="center">
  Languagues and Tools 🛠️
 </h3>
@@ -61,21 +87,6 @@ I am currently focusing my studies on the Front-end and user experience. <img al
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenAlbuquerque&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
 </div>
 
-<!-- ### Connect with me: -->
-<h3 align="center"> How to reach me 🗓 </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rubenAlbuquerque/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/rubenAlbuquerque/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
-  </a>
-</p>
 
  <!--
 <details> 
