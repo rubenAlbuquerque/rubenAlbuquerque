@@ -24,9 +24,7 @@ I am currently focusing my studies on the Front-end and user experience. <img al
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 50%; width: 120px; ">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <!--
  <a href="https://www.linkedin.com/in/rubenAlbuquerque/" target="_blank" style="background-color: white; display: inline-block; padding: 5px; border-radius: 50%;">
   <img src="https://rubenalbuquerque.github.io/Portfolio/static/media/logoBG.fce4a5138bbe4c21a822.png" style="width: 20px; height: 20px; vertical-align: middle;" alt="LinkedIn">
@@ -36,6 +34,10 @@ I am currently focusing my studies on the Front-end and user experience. <img al
 -->
 <a href="https://rubenalbuquerque.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" style="border-radius: 50%; width: 150px; height: 40px;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <a href="mailto:" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 50%; width: 120px; ">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
